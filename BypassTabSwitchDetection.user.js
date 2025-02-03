@@ -1,3 +1,4 @@
+// ==UserScript==
 // @name         Bypass Tab Switch Detection
 // @namespace    http://tampermonkey.net/
 // @version      1.0
@@ -5,10 +6,13 @@
 // @author       Devrill
 // @match        *://*/*
 // @icon         https://i.imgur.com/721TjOG.png
-// @updateURL    https://github.com/Devrill/Bypass-Tab-Switch-Detection/raw/main/BypassTabSwitchDetection.user.js
-// @downloadURL  https://github.com/Devrill/Bypass-Tab-Switch-Detection/raw/main/BypassTabSwitchDetection.user.js
+// @license      MIT
+// @locale       en
 // @grant        none
+// @downloadURL https://update.greasyfork.org/scripts/525742/Bypass%20Tab%20Switch%20Detection.user.js
+// @updateURL https://update.greasyfork.org/scripts/525742/Bypass%20Tab%20Switch%20Detection.meta.js
 // ==/UserScript==
+
 
 
 (function() {
