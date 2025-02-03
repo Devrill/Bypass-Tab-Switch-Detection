@@ -12,11 +12,10 @@ Tampermonkey script that overrides the document.hidden and document.visibilitySt
    - [Tampermonkey for Opera/OperaGX](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/)
 
 2. **Install the Script**:
-   [Click Here and Press Install](BypassTabSwitchDetection.user.js?raw=True).
-
-3. **Enable the Script**:
+   [Click Here and Install]([https://update.greasyfork.org/scripts/525742/Bypass%20Tab%20Switch%20Detection.user.js])).
+4. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
-4. **Test the Script**:
+5. **Test the Script**:
     Navigate to a website that uses tab switch detection. The script should prevent the website from detecting when you switch tabs.
    
 ## Limitations
