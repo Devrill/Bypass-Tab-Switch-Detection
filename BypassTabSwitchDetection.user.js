@@ -9,6 +9,8 @@
 // @downloadURL  https://github.com/Devrill/Bypass-Tab-Switch-Detection/raw/main/BypassTabSwitchDetection.user.js
 // @grant        none
 // ==/UserScript==
+
+
 (function() {
     'use strict';
 
