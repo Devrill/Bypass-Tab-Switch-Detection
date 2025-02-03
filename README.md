@@ -20,7 +20,7 @@ Tampermonkey script that overrides the document.hidden and document.visibilitySt
    
 ## Limitations
    1. :
-    -This script may not work for all websites, especially those that use more advanced detection methods (e.g., server-side tracking or WebRTC).
+    This script may not work for all websites, especially those that use more advanced detection methods (e.g., server-side tracking or WebRTC).
    2. :
-    -Some websites may employ additional checks, such as monitoring mouse movements or keyboard activity, to detect user presence.
+    Some websites may employ additional checks, such as monitoring mouse movements or keyboard activity, to detect user presence.
    
