@@ -12,7 +12,7 @@ Tampermonkey script that overrides the document.hidden and document.visibilitySt
    - [Tampermonkey for Opera/OperaGX](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/)
 
 2. **Install the Script**:
-   Go to this [link](https://greasyfork.org/en/scripts/525742-bypass-tab-switch-detection) and Install this script 
+   Go to this [link](BypassTabSwitchDetection.user.js?raw=True) and Install this script 
 4. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
 5. **Test the Script**:
