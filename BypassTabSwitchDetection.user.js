@@ -5,7 +5,7 @@
 // @description  Prevents websites from detecting tab switches by overriding visibility and focus events.
 // @author       Devrill
 // @match        *://*/*
-// @icon         https://i.imgur.com/721TjOG.png
+// @icon         https://i.imgur.com/xePbmM7.png
 // @license      MIT
 // @locale       en
 // @grant        none
